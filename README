@@ -1,4 +1,4 @@
-This application automaticly scan a folder and upload it to SFTP server.
+This Python application automaticly scan a folder and upload it to SFTP server.
 
 and also save the uploaded file to archive folder, email the file to user, and alert admin when it fails.
 
